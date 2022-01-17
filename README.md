@@ -1,6 +1,8 @@
 # Killergram
 
-An Android Xposed module to remove sponsored messages of Telegram
+An Android Xposed module to remove sponsored messages of Telegram.
+
+Also allows you to copy or save messages when "Restrict saving content" is enabled. Forwarding messages is still not working due to server limitation.
 
 ### Support clients
 
@@ -8,7 +10,6 @@ An Android Xposed module to remove sponsored messages of Telegram
 - **Official** org.telegram.messenger.web
 - **Official** org.telegram.messenger.beta
 - **NekoX** nekox.messenger
-- **Nekogram** tw.nekomimi.nekogram
 - **Nanogram** com.cool2645.nekolite
 - **Plus Messenger** org.telegram.plus
 - **iMe Messenger** com.iMe.android
